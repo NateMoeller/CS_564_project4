@@ -1,0 +1,7 @@
+SELECT P.NAME, ABS(P.POPESTIMATE2011 - P.POPESTIMATE2010) AS Change, CASE WHEN (P.POPESTIMATE2011 > P.POPESTIMATE2010) THEN 'Increase' WHEN (P.POPESTIMATE2011 < P.POPESTIMATE2010) THEN 'Decrease' END AS Indicator FROM POP_EST_CITIES_TOWNS P WHERE P.STNAME = "Wisconsin" AND P.SUMLEV = 050;
+
+
+/*
+This query will list all the county names for the state of "Wisconsin" and the absolute change in population estimate as of 2011 compared to 2010 for that county. It also creates a new column indicating if the change was positive or negative.
+
+*/

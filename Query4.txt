@@ -1,0 +1,6 @@
+SELECT CTYNAME, MAX(P.POPESTIMATE2012) FROM POP_EST_STATE_COUNTY P, HU_UNIT_STATE_LEVEL H WHERE P.STATE = H.STATE GROUP BY H.STATE;
+
+/*
+This query will list the counties with the maximum population estimate as of 2012 for each state.
+
+*/

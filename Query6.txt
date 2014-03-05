@@ -1,0 +1,6 @@
+SELECT NAME FROM POP_EST_NATION_STATE_PR WHERE BIRTHS2010 > DEATHS2010 ORDER BY REGION ASC, BIRTHS2010 DESC;
+
+/*
+This query will find all the states that have more births than deaths in the period 4/1/2010 to 6/30/2010. It will list the states in acending order of region, and for states will the same region it will sort them in decreasing order of 2010 births.
+
+*/

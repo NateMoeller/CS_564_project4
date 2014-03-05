@@ -1,0 +1,291 @@
+Query1 Results:
+
+Alabama
+Arizona
+California
+Colorado
+Florida
+Georgia
+Illinois
+Indiana
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Missouri
+New Jersey
+New York
+North Carolina
+Ohio
+Pennsylvania
+Tennessee
+Texas
+Virginia
+Washington
+Wisconsin
+
+Query2 Results:
+
+Unspecified|1
+Northeast|10
+Midwest|13
+South|18
+West|14
+
+
+Query3 Results:
+
+Alabama|4779736|2173898
+Alaska|710231|307815
+Arizona|6392017|2848487
+Arkansas|2915918|1317915
+California|37253956|13688154
+Colorado|5029196|2215237
+Connecticut|3574097|1489117
+Delaware|897934|406659
+District of Columbia|601723|297156
+Florida|18801310|8997061
+Georgia|9687653|4091640
+Hawaii|1360301|520069
+Idaho|1567582|669114
+Illinois|12830632|5296832
+Indiana|6483802|2796556
+Iowa|3046355|1337237
+Kansas|2853118|1234105
+Kentucky|4339367|1928255
+Louisiana|4533372|1967756
+Maine|1328361|722579
+Maryland|5773552|2381320
+Massachusetts|6547629|2810394
+Michigan|9883640|4530882
+Minnesota|5303925|2348568
+Mississippi|2967297|1276119
+Missouri|5988927|2714863
+Montana|989415|484093
+Nebraska|1826341|797673
+Nevada|2700551|1175827
+New Hampshire|1316470|615344
+New Jersey|8791894|3555361
+New Mexico|2059179|902734
+New York|19378102|8110354
+North Carolina|9535483|4334566
+North Dakota|672591|318181
+Ohio|11536504|5128696
+Oklahoma|3751351|1666443
+Oregon|3831074|1677289
+Pennsylvania|12702379|5569709
+Rhode Island|1052567|463656
+South Carolina|4625364|2141551
+South Dakota|814180|364052
+Tennessee|6346105|2815511
+Texas|25145561|10001712
+Utah|2763885|982382
+Vermont|625741|322907
+Virginia|8001024|3369482
+Washington|6724540|2890038
+West Virginia|1852994|881888
+Wisconsin|5686986|2626443
+Wyoming|563626|262602
+
+
+Query4 Results:
+
+
+Winston County|4822023
+Yukon-Koyukuk Census Area|731449
+Yuma County|6553255
+Yell County|2949131
+Yuba County|38041430
+Yuma County|5187582
+Windham County|3590347
+Sussex County|917092
+District of Columbia|632323
+Washington County|19317568
+Worth County|9919945
+Maui County|1392313
+Washington County|1595728
+Woodford County|12875255
+Whitley County|6537334
+Wright County|3074186
+Wyandotte County|2885905
+Woodford County|4380415
+Winn Parish|4601893
+York County|1329192
+Baltimore city|5884563
+Worcester County|6646144
+Wexford County|9883360
+Yellow Medicine County|5379139
+Yazoo County|2984926
+St. Louis city|6021988
+Yellowstone County|1005141
+York County|1855525
+Carson City|2758931
+Sullivan County|1320718
+Warren County|8864590
+Valencia County|2085538
+Yates County|19570261
+Yancey County|9752073
+Williams County|699628
+Wyandot County|11544225
+Woodward County|3814820
+Yamhill County|3899353
+York County|12763536
+Washington County|1050292
+York County|4723723
+Ziebach County|833354
+Wilson County|6456243
+Zavala County|26059203
+Weber County|2855287
+Windsor County|626011
+Winchester city|8185867
+Yakima County|6897012
+Wyoming County|1855413
+Wood County|5726398
+Weston County|576412
+
+
+Query5 results:
+
+Midwest|0-25|23450249
+Midwest|26-50|20123971
+Northeast|0-25|18415076
+Northeast|26-50|17073981
+South|0-25|40982252
+South|26-50|35883154
+West|0-25|26419231
+West|26-50|22916269
+
+Query6 results:
+
+United States
+Northeast Region
+New York
+Pennsylvania
+New Jersey
+Massachusetts
+Connecticut
+Maine
+New Hampshire
+Rhode Island
+Vermont
+Midwest Region
+Illinois
+Ohio
+Michigan
+Indiana
+Missouri
+Minnesota
+Wisconsin
+Kansas
+Iowa
+Nebraska
+South Dakota
+North Dakota
+South Region
+Texas
+Florida
+Georgia
+North Carolina
+Virginia
+Tennessee
+Maryland
+Louisiana
+Alabama
+South Carolina
+Kentucky
+Oklahoma
+Mississippi
+Arkansas
+Delaware
+District of Columbia
+West Region
+California
+Washington
+Arizona
+Colorado
+Utah
+Oregon
+Nevada
+New Mexico
+Idaho
+Hawaii
+Montana
+Alaska
+Wyoming
+Puerto Rico Commonwealth
+
+Query7 results:
+
+Adams County|126|Decrease
+Ashland County|43|Decrease
+Barron County|48|Increase
+Bayfield County|71|Increase
+Brown County|2579|Increase
+Buffalo County|40|Decrease
+Burnett County|57|Increase
+Calumet County|471|Increase
+Chippewa County|256|Increase
+Clark County|29|Increase
+Columbia County|1|Decrease
+Crawford County|76|Increase
+Dane County|6769|Increase
+Dodge County|88|Decrease
+Door County|73|Increase
+Douglas County|74|Decrease
+Dunn County|56|Increase
+Eau Claire County|1002|Increase
+Florence County|29|Increase
+Fond du Lac County|413|Increase
+Forest County|66|Decrease
+Grant County|5|Decrease
+Green County|19|Increase
+Green Lake County|46|Increase
+Iowa County|101|Decrease
+Iron County|13|Decrease
+Jackson County|103|Increase
+Jefferson County|243|Increase
+Juneau County|49|Increase
+Kenosha County|610|Increase
+Kewaunee County|2|Decrease
+La Crosse County|701|Increase
+Lafayette County|2|Increase
+Langlade County|167|Decrease
+Lincoln County|169|Decrease
+Manitowoc County|358|Decrease
+Marathon County|301|Increase
+Marinette County|75|Decrease
+Marquette County|34|Increase
+Menominee County|86|Increase
+Milwaukee County|3909|Increase
+Monroe County|290|Increase
+Oconto County|204|Decrease
+Oneida County|141|Decrease
+Outagamie County|948|Increase
+Ozaukee County|236|Increase
+Pepin County|50|Decrease
+Pierce County|180|Decrease
+Polk County|138|Decrease
+Portage County|46|Increase
+Price County|123|Decrease
+Racine County|114|Decrease
+Richland County|11|Decrease
+Rock County|196|Decrease
+Rusk County|98|Decrease
+St. Croix County|516|Increase
+Sauk County|242|Increase
+Sawyer County|23|Increase
+Shawano County|209|Decrease
+Sheboygan County|315|Decrease
+Taylor County|8|Decrease
+Trempealeau County|138|Increase
+Vernon County|161|Increase
+Vilas County|15|Decrease
+Walworth County|568|Increase
+Washburn County|9|Decrease
+Washington County|397|Increase
+Waukesha County|721|Increase
+Waupaca County|264|Increase
+Waushara County|80|Increase
+Winnebago County|607|Increase
+Wood County|22|Decrease
+

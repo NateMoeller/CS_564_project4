@@ -1,0 +1,6 @@
+SELECT R.REGION_Desc, COUNT(*) AS StateCount FROM POP_EST_NATION_STATE_PR N, REGION R WHERE N.REGION = R.REGION_Cd GROUP BY R.REGION_Cd;
+
+/*
+This query will list the region names and the number of states in each region.
+
+*/

@@ -1,0 +1,7 @@
+SELECT STNAME FROM HU_UNIT_STATE_LEVEL WHERE HUEST_2011 > (SELECT HUEST_2010 FROM HU_UNIT_STATE_LEVEL WHERE STNAME = "Alabama");
+
+/*
+This query will list the name of the states with housing estimate as of 2011 that is greater than
+the housing estimate as of 2010 for the state "Alabama".
+
+*/
